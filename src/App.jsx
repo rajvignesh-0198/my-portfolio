@@ -1,4 +1,5 @@
 import React from "react";
+import myPic from './assets/my_pic.jpg';
 import {
   Github,
   Linkedin,
@@ -38,7 +39,7 @@ export default function Portfolio() {
   return (
     <div className="portfolio">
       <header className="header fade-in delay-1">
-        <img src="src/assets/my_pic.jpg" alt="Raj Vignesh" className="profile-img" />
+        <img src={myPic} alt="Raj Vignesh" className="profile-img" />
         <h1 className="name">Rajvigneshwar Nagarajan</h1>
         <p className="title">Full Stack Developer | 2.9 Years Experience</p>
         <div className="socials">
