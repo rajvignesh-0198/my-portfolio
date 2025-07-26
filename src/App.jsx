@@ -46,7 +46,7 @@ export default function Portfolio() {
           <a href="https://github.com/rajvignesh-0198" target="_blank" rel="noopener noreferrer">
             <Github className="social-icon" />
           </a>
-          <a href="https://linkedin.com/in/yourusername" target="_blank" rel="noopener noreferrer">
+          <a href="https://linkedin.com/in/rajvigneshwar-nagarajan-59638b377" target="_blank" rel="noopener noreferrer">
             <Linkedin className="social-icon" />
           </a>
           <a href="mailto:rajvignesh0198@gmail.com" target="_blank" rel="noopener noreferrer">
